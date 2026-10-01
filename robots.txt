@@ -1,0 +1,4 @@
+# Demo: noindex via meta + header. Remove at go-live.
+User-agent: *
+Allow: /
+Sitemap: https://tandoori-haus-demo.vercel.app/sitemap.xml
